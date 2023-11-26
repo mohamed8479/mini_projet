@@ -1,0 +1,25 @@
+
+.about {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #f5f5f5;
+}
+
+.about__heading {
+    color: #007BFF;
+    font-size: 2em;
+    margin-bottom: 30px;
+}
+
+.about img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.about p {
+    margin-top: 20px;
+    line-height: 1.5;
+    color: #333;
+}

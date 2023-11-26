@@ -1,0 +1,38 @@
+.work {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #f5f5f5;
+}
+
+.work__heading {
+    color: #007BFF;
+    font-size: 2em;
+    margin-bottom: 30px;
+}
+
+
+.work table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 123, 255, 0.1);
+}
+
+.work th, .work td {
+    padding: 15px;
+    border: 2px solid #ddd;
+}
+
+.work img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+
+.work p {
+    margin-top: 20px;
+    line-height: 1.5;
+    color: #333;
+}
