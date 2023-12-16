@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const emailRegex = /^\S+@\S+\.\S+$/;
 
         if (!emailRegex.test(emailValue)) {
-            event.preventDefault(); // Prevents the form submission
+            event.preventDefault(); 
             alert("Please enter a valid email address.");
         }
     }
